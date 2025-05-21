@@ -13,13 +13,14 @@ Overview: This business is a solo-operated venture specializing in handmade croc
   9. Contact and Support. Contact form for users to reach out for support or inquiries.
 
 # Installation/Setup Instructions
-o Extract the downloaded source code zip file.
-o Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
-o Open your XAMPP Control Panel and start Apache and MySQL.
-o Click "Admin" in the MySQL options 
-0 Import the provided SQL file. The file is known as margo_collections.sql 
-o Browse the http://localhost/opo/index.php
-o Click Login in and enter "Ememerton" as username and "Daymalig" as password to login as user mode.
-o Click Login in and enter "Margow" as username and "Marstop" as password to login as an admin.
+1. Extract the downloaded source code zip file.
+2. Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
+3. Open your XAMPP Control Panel and start Apache and MySQL.
+4. Click "Admin" in the MySQL options
+5. Import the provided SQL file. The file is known as margo_collections.sql
+6.  Browse the http://localhost/opo/index.php
+7.  Click Login in and enter "Ememerton" as username and "Daymalig" as password to login as user mode.
+8.  Click Login in and enter "Margow" as username and "Marstop" as password to login as an admin.
+
 
   
